@@ -1,6 +1,6 @@
 ### Hi guys! I'm Tarcísio Neto 🖐🏻 
 <br>
-Here you can be see some my social midias.
+Here you can be see some my social medias.
 <br>
 
 
@@ -11,7 +11,7 @@ Here you can be see some my social midias.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarcisi0neto&show_icons=true&theme=tokyonight)
 
 #
-### I work with these techs into my daily routine
+### I work with these techs into on daily routine
 
 <div style="display: inline-block">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
