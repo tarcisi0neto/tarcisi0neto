@@ -6,7 +6,7 @@ Here you can be see some my social medias.
 
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@queridodev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](www.linkedin.com/in/tarcisio-neto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/tarcisio-neto/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarcisi0neto&show_icons=true&theme=tokyonight)
 
